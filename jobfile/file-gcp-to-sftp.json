@@ -1,9 +1,9 @@
 {
     "source": {
       "type": "GCP_BUCKET",
-      "bucket": "scotty-poc-bucket-169bec51",
+      "bucket": "poc-bucket-169bec51",
       "folder": "/",
-      "file_name": "SHARAN- MANISH.pdf"
+      "file_name": "some.pdf"
 
      
 

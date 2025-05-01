@@ -9,7 +9,7 @@
     },
     "destination": {
       "type": "GCP_BUCKET",
-      "bucket": "scotty-poc-bucket-169bec51",
+      "bucket": "poc-bucket-169bec51",
       "folder": "pocdestination001aa/"
     }
   }
