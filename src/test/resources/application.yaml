@@ -1,0 +1,12 @@
+application:
+  name: cloud-transfer-webapp
+# Optional: Configure server port if needed (default is 8080)
+# server:
+#  port: 8081
+# Define a custom property (from previous step)
+custom:
+  greeting: "Hello from application.yaml!"
+
+logging:
+  level:
+    root: DEBUG

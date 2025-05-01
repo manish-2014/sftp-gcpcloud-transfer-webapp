@@ -1,0 +1,23 @@
+{
+    "source": {
+      "type": "GCP_BUCKET",
+      "bucket": "scotty-poc-bucket-169bec51",
+      "folder": "/",
+      "file_name": "SHARAN- MANISH.pdf"
+
+     
+
+    },
+
+    "destination": {
+        "type": "SFTP",
+        "sftp_server": "localhost",
+        "sftp_port": 2222,
+        "ssh_user": "foo",
+        "path": "/upload/tfolder007b1/"
+
+    }    
+
+  }
+
+  

@@ -1,0 +1,13 @@
+{
+  "source": {
+    "type": "GCP_BUCKET",
+    "bucket": "scotty-poc-bucket-169bec51",
+    "folder": "pocdestination2/",
+    "service_account_key_path": "/home/manish/projects/devops/environment-center/GCP Credentials/app-sa-key.json"    
+  },
+
+  "destination": {
+    "type": "LOCAL",
+    "path": "/home/manish/Downloads/test3b/"
+  }
+}

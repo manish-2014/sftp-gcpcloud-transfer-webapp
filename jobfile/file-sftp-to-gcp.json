@@ -1,0 +1,18 @@
+{
+    "source": {
+        "type": "SFTP",
+        "sftp_server": "localhost",
+        "sftp_port": 2222,
+
+        "ssh_user": "foo",
+      "file_path": "/upload/tfolder3a/f2b/f3c/core_test.clj"
+
+    },
+    "destination": {
+      "type": "GCP_BUCKET",
+      "bucket": "scotty-poc-bucket-169bec51",
+      "folder": "pocdestinationf1a/f2b/f4c"
+
+    }
+  }
+

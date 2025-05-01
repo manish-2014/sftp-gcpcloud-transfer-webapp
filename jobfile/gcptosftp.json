@@ -1,0 +1,19 @@
+{
+    "source": {
+      "type": "GCP_BUCKET",
+      "bucket": "scotty-poc-bucket-169bec51",
+      "folder": "pocdestinationf1a/"
+
+    },
+  
+    "destination": {
+        "type": "SFTP",
+        "sftp_server": "35.192.220.240",
+        "sftp_port": 22,        
+        "ssh_user": "sftpuser",
+        "path": "/uploads/tfolder3ab/"
+
+    }
+  }
+  
+
