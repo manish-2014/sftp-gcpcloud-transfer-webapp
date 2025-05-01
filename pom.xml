@@ -9,7 +9,7 @@
         <relativePath/>
     </parent>
     <groupId>org.poc.gcp</groupId>
-    <artifactId>cloud-transfer-webapp</artifactId>
+    <artifactId>sftp-gcpcloud-transfer-webapp</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>cloud-transfer-webapp</name>
     <description>web application for moving files between GCP and sftp.</description>
